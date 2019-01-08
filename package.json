@@ -1,6 +1,6 @@
 {
   "name": "is-is-odd",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "check if a function is is-odd",
   "homepage": "https://github.com/slmjkdbtl/is-is-odd",
   "repository": "slmjkdbtl/is-is-odd",
@@ -14,5 +14,13 @@
   },
   "devDependencies": {
     "mocha": "^5.2.0"
-  }
+  },
+  "keywords": [
+    "odd",
+    "is",
+    "is-odd",
+    "security",
+    "kernal",
+    "meaning-of-life"
+  ]
 }
