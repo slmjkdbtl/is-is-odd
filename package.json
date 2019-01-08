@@ -1,0 +1,13 @@
+{
+  "name": "is-is-odd",
+  "version": "1.0.0",
+  "description": "check if a function is is-odd",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "is-odd": "^3.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
