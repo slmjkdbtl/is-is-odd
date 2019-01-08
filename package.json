@@ -2,8 +2,13 @@
   "name": "is-is-odd",
   "version": "1.0.0",
   "description": "check if a function is is-odd",
+  "homepage": "https://github.com/slmjkdbtl/is-is-odd",
+  "repository": "slmjkdbtl/is-is-odd",
   "main": "index.js",
   "license": "Zlib",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
   "dependencies": {
     "is-odd": "^3.0.1"
   },

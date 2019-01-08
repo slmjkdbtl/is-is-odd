@@ -1,6 +1,6 @@
 # is-is-odd
 
-> Returns true if the given function is is-odd
+> check if the given function is is-odd
 
 ## Install
 
@@ -24,4 +24,7 @@ console.log(isIsOdd(function() {
 	console.log("I'm is-odd");
 })); //=> false
 ```
+
+## Why
+some functions are not is-odd but they might make you think they're is-odd, this package helps you identifies these functions with a simple interface
 
