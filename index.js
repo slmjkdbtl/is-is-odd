@@ -2,9 +2,9 @@
 
 'use strict';
 
-const isOdd = require("is-odd");
+const avul = require('avul');
 
 module.exports = function isIsOdd(func) {
-	return func == isOdd;
+	return avul.is_isOdd(func);
 }
 
