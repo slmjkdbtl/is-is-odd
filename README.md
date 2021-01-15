@@ -26,7 +26,7 @@ console.log(isIsOdd(function() {
 ```
 
 ## Why
-some functions are not is-odd but they might make you think they're is-odd, this package helps you identifies these functions with a simple interface
+Some functions are not `is-odd` but they might make you *think* they're `is-odd`, this package helps you identify these functions with a simple interface
 
 ## Used By
 - [is-ten](https://github.com/animate-object/is-ten)
