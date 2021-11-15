@@ -1,3 +1,5 @@
+A [major security issue](https://github.com/slmjkdbtl/is-is-odd/issues/4) is found, this library is currently **NOT SAFE** to use.
+
 # is-is-odd
 
 > check if the given function is is-odd
