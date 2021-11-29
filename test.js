@@ -22,6 +22,9 @@ describe("isOdd", function() {
 			console.log("I'm is-odd");
 		}));
 	});
-
+	
+	it("should return false even if the function body is the same", function() {
+		assert(!isIsOdd(isIsOdd.toString()));
+	});
 });
 
