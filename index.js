@@ -4,7 +4,13 @@
 
 const isOdd = require("is-odd");
 
-module.exports = function isIsOdd(func) {
-	return func === isOdd;
-}
+module.exports = {
+	isIsOdd: function isIsOdd(func) {
+		return func == isOdd;
+	},
+	isIsOddStrict: function isIsOdd(func) {
+		return func === isOdd;
+	}
+};
+	
 
