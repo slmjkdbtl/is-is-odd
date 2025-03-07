@@ -1,6 +1,6 @@
 // wengwengweng
 
-'use strict';
+"use strict";
 
 const isOdd = require("is-odd");
 
